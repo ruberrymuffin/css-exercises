@@ -1,0 +1,14 @@
+.one,.two {
+    font-size: 28px;
+    font-family: Helvetica, sans-serif, 'Times New Roman';
+}
+
+.one {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.two {
+    background-color: yellow;
+}
